@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "doors.sln"
+    "dotnet.defaultSolution": "GriffLandGame.sln"
 }
