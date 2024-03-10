@@ -9,11 +9,14 @@ Doors open upon getting near.
 Resize initial door
 Copy door x3
 Arrange Doors
-Build Walls around doors 
+Build Walls around doors
 
 3/5/24
 Finish basic walls and floor of lobby, rat room, and resume room.
 
+3/7/24
+Added picture frame in gallery, with edge loops, and beveled to create frame.
+Learned UV Unwrapping, create skin for first painting.
 
 Model List:
 Lobby:
